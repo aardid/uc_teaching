@@ -1,0 +1,20 @@
+name: ucnz
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - seaborn
+  - anaflow
+  - ipykernel
+  - ipywidgets
+  - ipyleaflet
+  - matplotlib
+  - pandas
+  - pyproj
+  - xlrd
+  - sympy
+  - scikit-learn
+  - jupyter
